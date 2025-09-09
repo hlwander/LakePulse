@@ -1,0 +1,275 @@
+﻿Genus,Classic group,Class,Order,Family,Method used to reach final decision,Resource acquisition strategy
+Bacillaria,DIATOMS,Bacillariophyceae,Bacillariales,Bacillariaceae,Cyano/Diatom,Autotroph
+Cylindrotheca,DIATOMS,Bacillariophyceae,Bacillariales,Bacillariaceae,Cyano/Diatom,Autotroph
+Denticula,DIATOMS,Bacillariophyceae,Bacillariales,Bacillariaceae,Cyano/Diatom,Autotroph
+Nitzschia,DIATOMS,Bacillariophyceae,Bacillariales,Bacillariaceae,Cyano/Diatom,Autotroph
+Achnanthidium,DIATOMS,Bacillariophyceae,Cocconeidales,Achnanthidiaceae,Cyano/Diatom,Autotroph
+Cocconeis,DIATOMS,Bacillariophyceae,Cocconeidales,Cocconeidaceae,Cyano/Diatom,Autotroph
+Cymbella,DIATOMS,Bacillariophyceae,Cymbellales,Cymbellaceae,Cyano/Diatom,Autotroph
+Encyonopsis,DIATOMS,Bacillariophyceae,Cymbellales,Cymbellaceae,Cyano/Diatom,Autotroph
+Delicatophycus,DIATOMS,Bacillariophyceae,Cymbellales,Gomphonemataceae,Cyano/Diatom,Autotroph
+Encyonema,DIATOMS,Bacillariophyceae,Cymbellales,Gomphonemataceae,Cyano/Diatom,Autotroph
+Gomphonema,DIATOMS,Bacillariophyceae,Cymbellales,Gomphonemataceae,Cyano/Diatom,Autotroph
+Rhoicosphenia,DIATOMS,Bacillariophyceae,Cymbellales,Rhoicospheniaceae,Cyano/Diatom,Autotroph
+Actinella,DIATOMS,Bacillariophyceae,Eunotiales,Eunotiaceae,Cyano/Diatom,Autotroph
+Eunotia,DIATOMS,Bacillariophyceae,Eunotiales,Eunotiaceae,Cyano/Diatom,Autotroph
+Fragilaria,DIATOMS,Bacillariophyceae,Fragilariales,Fragilariaceae,Cyano/Diatom,Autotroph
+Odontidium,DIATOMS,Bacillariophyceae,Fragilariales,Fragilariaceae,Cyano/Diatom,Autotroph
+Synedra,DIATOMS,Bacillariophyceae,Fragilariales,Fragilariaceae,Cyano/Diatom,Autotroph
+TBD,DIATOMS,Bacillariophyceae,Fragilariales,Fragilariaceae,Cyano/Diatom,Autotroph
+Pseudostaurosira,DIATOMS,Bacillariophyceae,Fragilariales,Staurosiraceae,Cyano/Diatom,Autotroph
+Staurosira,DIATOMS,Bacillariophyceae,Fragilariales,Staurosiraceae,Cyano/Diatom,Autotroph
+Staurosirella,DIATOMS,Bacillariophyceae,Fragilariales,Staurosiraceae,Cyano/Diatom,Autotroph
+Ctenophora,DIATOMS,Bacillariophyceae,Licmophorales,Ulnariaceae,Cyano/Diatom,Autotroph
+Pennales,DIATOMS,Bacillariophyceae,Licmophorales,Ulnariaceae,Cyano/Diatom,Autotroph
+Ulnaria,DIATOMS,Bacillariophyceae,Licmophorales,Ulnariaceae,Cyano/Diatom,Autotroph
+Mastogloia,DIATOMS,Bacillariophyceae,Mastogloiales,Mastogloiaceae,Cyano/Diatom,Autotroph
+Amphipleura,DIATOMS,Bacillariophyceae,Naviculales,Amphipleuraceae,Cyano/Diatom,Autotroph
+Frustulia,DIATOMS,Bacillariophyceae,Naviculales,Amphipleuraceae,Cyano/Diatom,Autotroph
+Brachysira,DIATOMS,Bacillariophyceae,Naviculales,Brachysiraceae,Cyano/Diatom,Autotroph
+Capartogramma,DIATOMS,Bacillariophyceae,Naviculales,Naviculaceae,Cyano/Diatom,Autotroph
+Gyrosigma,DIATOMS,Bacillariophyceae,Naviculales,Naviculaceae,Cyano/Diatom,Autotroph
+Hippodonta,DIATOMS,Bacillariophyceae,Naviculales,Naviculaceae,Cyano/Diatom,Autotroph
+Navicula,DIATOMS,Bacillariophyceae,Naviculales,Naviculaceae,Cyano/Diatom,Autotroph
+TBD,DIATOMS,Bacillariophyceae,Naviculales,Naviculaceae,Cyano/Diatom,Autotroph
+Pinnularia,DIATOMS,Bacillariophyceae,Naviculales,Pinnulariaceae,Cyano/Diatom,Autotroph
+Fallacia,DIATOMS,Bacillariophyceae,Naviculales,Sellaphoraceae,Cyano/Diatom,Autotroph
+Sellaphora,DIATOMS,Bacillariophyceae,Naviculales,Sellaphoraceae,Cyano/Diatom,Autotroph
+Craticula,DIATOMS,Bacillariophyceae,Naviculales,Stauroneidaceae,Cyano/Diatom,Autotroph
+Stauroneis,DIATOMS,Bacillariophyceae,Naviculales,Stauroneidaceae,Cyano/Diatom,Autotroph
+Hantzschia,DIATOMS,Bacillariophyceae,Pennales,Bacillariaceae,Cyano/Diatom,Autotroph
+TBD,DIATOMS,Bacillariophyceae,Pennales,Gomphonemataceae,Cyano/Diatom,Autotroph
+Epithemia,DIATOMS,Bacillariophyceae,Rhopalodiales,Rhopalodiaceae,Cyano/Diatom,Autotroph
+Rhopalodia,DIATOMS,Bacillariophyceae,Rhopalodiales,Rhopalodiaceae,Cyano/Diatom,Autotroph
+Entomoneis,DIATOMS,Bacillariophyceae,Surirellales,Entomoneidaceae,Cyano/Diatom,Autotroph
+Surirella,DIATOMS,Bacillariophyceae,Surirellales,Surirellaceae,Cyano/Diatom,Autotroph
+Asterionella,DIATOMS,Bacillariophyceae,Tabellariales,Tabellariaceae,Cyano/Diatom,Autotroph
+Diatoma,DIATOMS,Bacillariophyceae,Tabellariales,Tabellariaceae,Cyano/Diatom,Autotroph
+Tabellaria,DIATOMS,Bacillariophyceae,Tabellariales,Tabellariaceae,Cyano/Diatom,Autotroph
+Amphora,DIATOMS,Bacillariophyceae,Thalassiophysales,Catenulaceae,Cyano/Diatom,Autotroph
+Aulacoseira,DIATOMS,Coscinodiscophyceae,Aulacoseirales,Aulacoseiraceae,Cyano/Diatom,Autotroph
+Centrales,DIATOMS,Coscinodiscophyceae,Coscinodiscales,Coscinodiscaceae,Cyano/Diatom,Autotroph
+Coscinodiscus,DIATOMS,Coscinodiscophyceae,Coscinodiscales,Coscinodiscaceae,Cyano/Diatom,Autotroph
+Melosira,DIATOMS,Coscinodiscophyceae,Melosirales,Melosiraceae,Cyano/Diatom,Autotroph
+Rhizosolenia,DIATOMS,Coscinodiscophyceae,Rhizosoleniales,Rhizosoleniaceae,Cyano/Diatom,Autotroph
+Urosolenia,DIATOMS,Coscinodiscophyceae,Rhizosoleniales,Rhizosoleniaceae,Cyano/Diatom,Autotroph
+Acanthoceras,DIATOMS,Mediophyceae,Chaetocerotales,Chaetocerotaceae,Cyano/Diatom,Autotroph
+Chaetoceros,DIATOMS,Mediophyceae,Chaetocerotales,Chaetocerotaceae,Cyano/Diatom,Autotroph
+Cyclotella,DIATOMS,Mediophyceae,Stephanodiscales,Stephanodiscaceae,Cyano/Diatom,Autotroph
+Discostella,DIATOMS,Mediophyceae,Stephanodiscales,Stephanodiscaceae,Cyano/Diatom,Autotroph
+Lindavia,DIATOMS,Mediophyceae,Stephanodiscales,Stephanodiscaceae,Cyano/Diatom,Autotroph
+Pantocsekiella,DIATOMS,Mediophyceae,Stephanodiscales,Stephanodiscaceae,Cyano/Diatom,Autotroph
+Stephanodiscus,DIATOMS,Mediophyceae,Stephanodiscales,Stephanodiscaceae,Cyano/Diatom,Autotroph
+Skeletonema,DIATOMS,Mediophyceae,Thalassiosirales,Skeletonemataceae,Cyano/Diatom,Autotroph
+Elakatothrix,GREEN ALGAE,Klebsormidiophyceae,Klebsormidiales,Elakatotrichaceae,DB Scrap.,Autotroph
+Closterium,GREEN ALGAE,Zygnematophyceae,Desmidiales,Closteriaceae,DB Scrap.,Autotroph
+Arthrodesmus,GREEN ALGAE,Zygnematophyceae,Desmidiales,Desmidiaceae,Litt. Rev.,Autotroph
+Cosmarium,GREEN ALGAE,Zygnematophyceae,Desmidiales,Desmidiaceae,DB Scrap.,Autotroph
+Desmidium,GREEN ALGAE,Zygnematophyceae,Desmidiales,Desmidiaceae,Litt. Rev.,Autotroph
+Euastrum,GREEN ALGAE,Zygnematophyceae,Desmidiales,Desmidiaceae,DB Scrap.,Autotroph
+Spondylosium,GREEN ALGAE,Zygnematophyceae,Desmidiales,Desmidiaceae,DB Scrap.,Autotroph
+Staurastrum,GREEN ALGAE,Zygnematophyceae,Desmidiales,Desmidiaceae,DB Scrap.,Autotroph
+Staurodesmus,GREEN ALGAE,Zygnematophyceae,Desmidiales,Desmidiaceae,DB Scrap.,Autotroph
+Teilingia,GREEN ALGAE,Zygnematophyceae,Desmidiales,Desmidiaceae,DB Scrap.,Autotroph
+Gonatozygon,GREEN ALGAE,Zygnematophyceae,Desmidiales,Gonatozygaceae,Litt. Rev.,Autotroph
+Netrium,GREEN ALGAE,Zygnematophyceae,Zygnematales,Mesotaeniaceae,Litt. Rev.,Autotroph
+Mougeotia,GREEN ALGAE,Zygnematophyceae,Zygnematales,Zygnemataceae,DB Scrap.,Autotroph
+Spirogyra,GREEN ALGAE,Zygnematophyceae,Zygnematales,Zygnemataceae,Litt. Rev.,Autotroph
+Tetraselmis,GREEN ALGAE,Chlorodendrophyceae,Chlorodendrales,Chlorodendraceae,DB Scrap.,Autotroph
+Carteria,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Chlamydomonadaceae,DB Scrap.,Autotroph
+Chlamydomonas,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Chlamydomonadaceae,Litt. Rev.,Autotroph
+Chloromonas,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Chlamydomonadaceae,Litt. Rev.,Autotroph
+Lobomonas,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Chlamydomonadaceae,Tax. Eval.,Autotroph
+Vitreochlamys,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Chlamydomonadaceae,Tax. Eval.,Autotroph
+Hafniomonas,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Dunaliellaceae,Tax. Eval.,Autotroph
+Spermatozopsis,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Dunaliellaceae,DB Scrap.,Autotroph
+Gonium,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Goniaceae,DB Scrap.,Autotroph
+Chlorogonium,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Haematococcaceae,DB Scrap.,Autotroph
+Chlamydocapsa,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Palmellopsidaceae,DB Scrap.,Autotroph
+Pteromonas,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Phacotaceae,DB Scrap.,Autotroph
+Sphaerocystis,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Sphaerocystidaceae,DB Scrap.,Autotroph
+Tetrabaena,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Tetrabaenaceae,Litt. Rev.,Autotroph
+Tetraspora,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Tetrasporaceae,Tax. Eval.,Autotroph
+Eudorina,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Volvocaceae,DB Scrap.,Autotroph
+Pandorina,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Volvocaceae,Litt. Rev.,Autotroph
+Volvox,GREEN ALGAE,Chlorophyceae,Chlamydomonadales,Volvocaceae,Litt. Rev.,Autotroph
+Golenkiniopsis,GREEN ALGAE,Chlorophyceae,Chlorellales,Chlorellacae,DB Scrap.,Autotroph
+Diplochloris,GREEN ALGAE,Chlorophyceae,Chlorophyceae incertae sedis,Chlorophyceae familia incertae sedis,Litt. Rev.,Autotroph
+Oedogonium,GREEN ALGAE,Chlorophyceae,Oedogoniales,Oedogoniaceae,DB Scrap.,Autotroph
+Ankyra,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Characiaceae,DB Scrap.,Autotroph
+Characium,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Characiaceae,Litt. Rev.,Autotroph
+Korshikoviella,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Characiaceae,DB Scrap.,Autotroph
+Lanceola,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Characiaceae,DB Scrap.,Autotroph
+Pseudoschroederia,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Characiaceae,Litt. Rev.,Autotroph
+Fusola,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Cylindrocapsaceae,Litt. Rev.,Autotroph
+Monactinus,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Hydrodictyaceae,DB Scrap.,Autotroph
+Pediastrum,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Hydrodictyaceae,DB Scrap.,Autotroph
+Pseudopediastrum,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Hydrodictyaceae,DB Scrap.,Autotroph
+Stauridium,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Hydrodictyaceae,DB Scrap.,Autotroph
+Tetraedron,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Hydrodictyaceae,DB Scrap.,Autotroph
+Chlorotetraedron,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Neochloridaceae,Tax. Eval.,Autotroph
+Coenochloris,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Radiococcaceae,DB Scrap.,Autotroph
+Coenocystis,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Radiococcaceae,DB Scrap.,Autotroph
+Gloeocystis,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Radiococcaceae,DB Scrap.,Autotroph
+Radiococcus,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Radiococcaceae,Litt. Rev.,Autotroph
+Acutodesmus,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Scenedesmaceae,Litt. Rev.,Autotroph
+Coelastrum,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Scenedesmaceae,DB Scrap.,Autotroph
+Comasiella,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Scenedesmaceae,Litt. Rev.,Autotroph
+Crucigeniella,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Scenedesmaceae,DB Scrap.,Autotroph
+Desmodesmus,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Scenedesmaceae,DB Scrap.,Autotroph
+Scenedesmus,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Scenedesmaceae,DB Scrap.,Autotroph
+Tetradesmus,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Scenedesmaceae,DB Scrap.,Autotroph
+Tetrastrum,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Scenedesmaceae,DB Scrap.,Autotroph
+Planktosphaeria,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Schizochlamydaceae,Litt. Rev.,Autotroph
+Schroederia,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Schroederiaceae,DB Scrap.,Autotroph
+Ankistrodesmus,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Selenastraceae,DB Scrap.,Autotroph
+Chlorolobion,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Selenastraceae,DB Scrap.,Autotroph
+Drepanochloris,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Selenastraceae,Tax. Eval.,Autotroph
+Gregiochloris,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Selenastraceae,Litt. Rev.,Autotroph
+Kirchneriella,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Selenastraceae,DB Scrap.,Autotroph
+Messastrum,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Selenastraceae,DB Scrap.,Autotroph
+Monoraphidium,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Selenastraceae,DB Scrap.,Autotroph
+Quadrigula,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Selenastraceae,DB Scrap.,Autotroph
+Raphidocelis,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Selenastraceae,DB Scrap.,Autotroph
+Selenastrum,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Selenastraceae,DB Scrap.,Autotroph
+Treubaria,GREEN ALGAE,Chlorophyceae,Sphaeropleales,Treubariaceae,DB Scrap.,Autotroph
+Pedinomonas,GREEN ALGAE,Pedinophyceae,Pedinomonadales,Pedinomonadaceae,Litt. Rev.,Autotroph
+Scourfieldia,GREEN ALGAE,Pedinophyceae,Scourfieldiales,Scourfieldiaceae,Litt. Rev.,Autotroph
+Actinastrum,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Chlorellaceae,DB Scrap.,Autotroph
+Chlorella,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Chlorellaceae,DB Scrap.,Autotroph
+Closteriopsis,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Chlorellaceae,DB Scrap.,Autotroph
+Dictyosphaerium,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Chlorellaceae,DB Scrap.,Autotroph
+Gloeotila,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Chlorellaceae,Litt. Rev.,Autotroph
+Golenkinia,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Chlorellaceae,DB Scrap.,Autotroph
+Keratococcus,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Chlorellaceae,Litt. Rev.,Autotroph
+Micractinium,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Chlorellaceae,DB Scrap.,Autotroph
+Mucidosphaerium,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Chlorellaceae,DB Scrap.,Autotroph
+Neglectella,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Eremosphaeraceae,Litt. Rev.,Autotroph
+Eremosphaera,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Oocystaceae,Litt. Rev.,Autotroph
+Franceia,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Oocystaceae,Litt. Rev.,Autotroph
+Lagerheimia,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Oocystaceae,DB Scrap.,Autotroph
+Nephrocytium,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Oocystaceae,DB Scrap.,Autotroph
+Oocystis,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Oocystaceae,DB Scrap.,Autotroph
+Willea,GREEN ALGAE,Trebouxiophyceae,Chlorellales,Oocystaceae,Litt. Rev.,Autotroph
+Koliella,GREEN ALGAE,Trebouxiophyceae,Prasiolales,Koliellaceae,DB Scrap.,Autotroph
+Botryococcus,GREEN ALGAE,Trebouxiophyceae,Trebouxiales,Botryococcaceae,DB Scrap.,Autotroph
+Dichotomococcus,GREEN ALGAE,Trebouxiophyceae,Trebouxiales,Botryococcaceae,Litt. Rev.,Autotroph
+Chloroidium,GREEN ALGAE,Trebouxiophyceae,Trebouxiophyceae ordo incertae sedis,Trebouxiophyceae incertae sedis,Litt. Rev.,Autotroph
+Crucigenia,GREEN ALGAE,Trebouxiophyceae,Trebouxiophyceae ordo incertae sedis,Trebouxiophyceae incertae sedis,DB Scrap.,Autotroph
+Lemmermannia,GREEN ALGAE,Trebouxiophyceae,Trebouxiophyceae ordo incertae sedis,Trebouxiophyceae incertae sedis,Litt. Rev.,Autotroph
+Cladophora,GREEN ALGAE,Ulvophyceae,Cladophorales,Cladophoraceae,Litt. Rev.,Autotroph
+Binuclearia,GREEN ALGAE,Ulvophyceae,Ulotrichales,Binucleariaceae,Litt. Rev.,Autotroph
+Ulothrix,GREEN ALGAE,Ulvophyceae,Ulotrichales,Ulotrichaceae,Litt. Rev.,Autotroph
+Pseudendoclonium,GREEN ALGAE,Ulvophyceae,Ulvales,Ulvales incertae sedis,Litt. Rev.,Autotroph
+Cryptomonas,CRYPTOPHYTES,Cryptophyceae,Cryptomonadales,Cryptomonadaceae,Litt. Rev.,Mixotroph
+Chroomonas,CRYPTOPHYTES,Cryptophyceae,Cryptomonadales,Hemiselmidaceae,Litt. Rev.,Mixotroph
+Komma,CRYPTOPHYTES,Cryptophyceae,Cryptomonadales,Hemiselmidaceae,Litt. Rev.,Mixotroph
+Rhodomonas,CRYPTOPHYTES,Cryptophyceae,Pyrenomonadales,Pyrenomonadaceae,Litt. Rev.,Mixotroph
+Aphanothece,CYANOBACTERIA,Cyanophyceae,Chroococcales,Aphanothecaceae,Cyano/Diatom,Autotroph
+Gloeothece,CYANOBACTERIA,Cyanophyceae,Chroococcales,Aphanothecaceae,Cyano/Diatom,Autotroph
+Myxobaktron,CYANOBACTERIA,Cyanophyceae,Chroococcales,Aphanothecaceae,Cyano/Diatom,Autotroph
+Chroococcus,CYANOBACTERIA,Cyanophyceae,Chroococcales,Chroococcaceae,Cyano/Diatom,Autotroph
+Dactylococcopsis,CYANOBACTERIA,Cyanophyceae,Chroococcales,Chroococcaceae,Cyano/Diatom,Autotroph
+Siphononema,CYANOBACTERIA,Cyanophyceae,Chroococcales,Entophysalidaceae,Cyano/Diatom,Autotroph
+Gomphosphaeria,CYANOBACTERIA,Cyanophyceae,Chroococcales,Gomphosphaeriaceae,Cyano/Diatom,Autotroph
+Gloeocapsa,CYANOBACTERIA,Cyanophyceae,Chroococcales,Microcystaceae,Cyano/Diatom,Autotroph
+Microcystis,CYANOBACTERIA,Cyanophyceae,Chroococcales,Microcystaceae,Cyano/Diatom,Autotroph
+Radiocystis,CYANOBACTERIA,Cyanophyceae,Chroococcales,Microcystaceae,Cyano/Diatom,Autotroph
+Anabaenopsis,CYANOBACTERIA,Cyanophyceae,Nostocales,Aphanizomenonaceae,Cyano/Diatom,Autotroph
+Aphanizomenon,CYANOBACTERIA,Cyanophyceae,Nostocales,Aphanizomenonaceae,Cyano/Diatom,Autotroph
+Chrysosporum,CYANOBACTERIA,Cyanophyceae,Nostocales,Aphanizomenonaceae,Cyano/Diatom,Autotroph
+Cuspidothrix,CYANOBACTERIA,Cyanophyceae,Nostocales,Aphanizomenonaceae,Cyano/Diatom,Autotroph
+Cylindrospermopsis,CYANOBACTERIA,Cyanophyceae,Nostocales,Aphanizomenonaceae,Cyano/Diatom,Autotroph
+Dolichospermum,CYANOBACTERIA,Cyanophyceae,Nostocales,Aphanizomenonaceae,Cyano/Diatom,Autotroph
+Nodularia,CYANOBACTERIA,Cyanophyceae,Nostocales,Aphanizomenonaceae,Cyano/Diatom,Autotroph
+Raphidiopsis,CYANOBACTERIA,Cyanophyceae,Nostocales,Aphanizomenonaceae,Cyano/Diatom,Autotroph
+Gloeotrichia,CYANOBACTERIA,Cyanophyceae,Nostocales,Gloeotrichiaceae,Cyano/Diatom,Autotroph
+Anabaena,CYANOBACTERIA,Cyanophyceae,Nostocales,Nostocaceae,Cyano/Diatom,Autotroph
+Macrospermum,CYANOBACTERIA,Cyanophyceae,Nostocales,Nostocaceae,Cyano/Diatom,Autotroph
+Nostoc,CYANOBACTERIA,Cyanophyceae,Nostocales,Nostocaceae,Cyano/Diatom,Autotroph
+Rivularia,CYANOBACTERIA,Cyanophyceae,Nostocales,Rivulariaceae,Cyano/Diatom,Autotroph
+Anagnostidinema,CYANOBACTERIA,Cyanophyceae,Oscillatoriales,Coleofasciculaceae,Cyano/Diatom,Autotroph
+Geitlerinema,CYANOBACTERIA,Cyanophyceae,Oscillatoriales,Coleofasciculaceae,Cyano/Diatom,Autotroph
+Komvophoron,CYANOBACTERIA,Cyanophyceae,Oscillatoriales,Gomontiellaceae,Cyano/Diatom,Autotroph
+Arthrospira,CYANOBACTERIA,Cyanophyceae,Oscillatoriales,Microcoleaceae,Cyano/Diatom,Autotroph
+Microcoleus,CYANOBACTERIA,Cyanophyceae,Oscillatoriales,Microcoleaceae,Cyano/Diatom,Autotroph
+Planktothrix,CYANOBACTERIA,Cyanophyceae,Oscillatoriales,Microcoleaceae,Cyano/Diatom,Autotroph
+Limnoraphis,CYANOBACTERIA,Cyanophyceae,Oscillatoriales,Oscillatoriaceae,Cyano/Diatom,Autotroph
+Lyngbya,CYANOBACTERIA,Cyanophyceae,Oscillatoriales,Oscillatoriaceae,Cyano/Diatom,Autotroph
+Oscillatoria,CYANOBACTERIA,Cyanophyceae,Oscillatoriales,Oscillatoriaceae,Cyano/Diatom,Autotroph
+Phormidium,CYANOBACTERIA,Cyanophyceae,Oscillatoriales,Oscillatoriaceae,Cyano/Diatom,Autotroph
+Glaucospira,CYANOBACTERIA,Cyanophyceae,Spirulinales,Spirulinaceae,Cyano/Diatom,Autotroph
+Spirulina,CYANOBACTERIA,Cyanophyceae,Spirulinales,Spirulinaceae,Cyano/Diatom,Autotroph
+Coelomoron,CYANOBACTERIA,Cyanophyceae,Synechococcales,Coelosphaeriaceae,Cyano/Diatom,Autotroph
+Coelosphaerium,CYANOBACTERIA,Cyanophyceae,Synechococcales,Coelosphaeriaceae,Cyano/Diatom,Autotroph
+Snowella,CYANOBACTERIA,Cyanophyceae,Synechococcales,Coelosphaeriaceae,Cyano/Diatom,Autotroph
+Woronichinia,CYANOBACTERIA,Cyanophyceae,Synechococcales,Coelosphaeriaceae,Cyano/Diatom,Autotroph
+Leibleinia,CYANOBACTERIA,Cyanophyceae,Synechococcales,Leptolyngbyaceae,Cyano/Diatom,Autotroph
+Leptolyngbya,CYANOBACTERIA,Cyanophyceae,Synechococcales,Leptolyngbyaceae,Cyano/Diatom,Autotroph
+Limnolyngbya,CYANOBACTERIA,Cyanophyceae,Synechococcales,Leptolyngbyaceae,Cyano/Diatom,Autotroph
+Planktolyngbya,CYANOBACTERIA,Cyanophyceae,Synechococcales,Leptolyngbyaceae,Cyano/Diatom,Autotroph
+Romeria,CYANOBACTERIA,Cyanophyceae,Synechococcales,Leptolyngbyaceae,Cyano/Diatom,Autotroph
+Aphanocapsa,CYANOBACTERIA,Cyanophyceae,Synechococcales,Merismopediaceae,Cyano/Diatom,Autotroph
+Eucapsis,CYANOBACTERIA,Cyanophyceae,Synechococcales,Merismopediaceae,Cyano/Diatom,Autotroph
+Limnococcus,CYANOBACTERIA,Cyanophyceae,Synechococcales,Merismopediaceae,Cyano/Diatom,Autotroph
+Merismopedia,CYANOBACTERIA,Cyanophyceae,Synechococcales,Merismopediaceae,Cyano/Diatom,Autotroph
+Pannus,CYANOBACTERIA,Cyanophyceae,Synechococcales,Merismopediaceae,Cyano/Diatom,Autotroph
+Limnothrix,CYANOBACTERIA,Cyanophyceae,Synechococcales,Pseudanabaenaceae,Cyano/Diatom,Autotroph
+Pseudanabaena,CYANOBACTERIA,Cyanophyceae,Synechococcales,Pseudanabaenaceae,Cyano/Diatom,Autotroph
+Anathece,CYANOBACTERIA,Cyanophyceae,Synechococcales,Synechococcaceae,Cyano/Diatom,Autotroph
+Cyanobium,CYANOBACTERIA,Cyanophyceae,Synechococcales,Synechococcaceae,Cyano/Diatom,Autotroph
+Cyanodictyon,CYANOBACTERIA,Cyanophyceae,Synechococcales,Synechococcaceae,Cyano/Diatom,Autotroph
+Cyanonephron,CYANOBACTERIA,Cyanophyceae,Synechococcales,Synechococcaceae,Cyano/Diatom,Autotroph
+Rhabdoderma,CYANOBACTERIA,Cyanophyceae,Synechococcales,Synechococcaceae,Cyano/Diatom,Autotroph
+Rhabdogloea,CYANOBACTERIA,Cyanophyceae,Synechococcales,Synechococcaceae,Cyano/Diatom,Autotroph
+Synechococcus,CYANOBACTERIA,Cyanophyceae,Synechococcales,Synechococcaceae,Cyano/Diatom,Autotroph
+Heteroleibleinia,CYANOBACTERIA,Cyanophyceae,Synechococcales,Synechococcales familia incertae sedis,Cyano/Diatom,Autotroph
+Colacium,EUGLENOIDS,Euglenophyceae,Euglenida,Euglenidae,Litt. Rev.,Autotroph
+Euglena,EUGLENOIDS,Euglenophyceae,Euglenida,Euglenidae,Litt. Rev.,Autotroph
+Strombomonas,EUGLENOIDS,Euglenophyceae,Euglenida,Euglenidae,Litt. Rev.,Autotroph
+Trachelomonas,EUGLENOIDS,Euglenophyceae,Euglenida,Euglenidae,Litt. Rev.,Autotroph
+Lepocinclis,EUGLENOIDS,Euglenophyceae,Euglenida,Phacidae,Litt. Rev.,Autotroph
+Phacus,EUGLENOIDS,Euglenophyceae,Euglenida,Phacidae,Litt. Rev.,Autotroph
+Chrysochromulina,OTHER,Coccolithophyceae,Prymnesiales,Chrysochromulinaceae,DB Scrap.,Mixotroph
+Prymnesium,OTHER,Coccolithophyceae,Prymnesiales,Prymnesiaceae,Litt. Rev.,Mixotroph
+Amphidinium,DINOFLAGELLATES,Dinophyceae,Amphidiniales,Amphidiniaceae,Litt. Rev.,Mixotroph
+Ceratium,DINOFLAGELLATES,Dinophyceae,Gonyaulacales,Ceratiaceae,Litt. Rev.,Mixotroph
+Gymnodinium,DINOFLAGELLATES,Dinophyceae,Gymnodiniales,Gymnodiniaceae,Litt. Rev.,Mixotroph
+Nusuttodinium,DINOFLAGELLATES,Dinophyceae,Gymnodiniales,Gymnodiniaceae,Litt. Rev.,Mixotroph
+Gyrodinium,DINOFLAGELLATES,Dinophyceae,Gymnodiniales,Gyrodiniaceae,Litt. Rev.,Mixotroph
+Glochidinium,DINOFLAGELLATES,Dinophyceae,Peridiniales,Peridiniaceae,Litt. Rev.,Mixotroph
+Parvodinium,DINOFLAGELLATES,Dinophyceae,Peridiniales,Peridiniaceae,Litt. Rev.,Mixotroph
+Peridinium,DINOFLAGELLATES,Dinophyceae,Peridiniales,Peridiniaceae,DB Scrap.,Mixotroph
+Glenodinium,DINOFLAGELLATES,Dinophyceae,Peridiniales,Peridiniales incertae sedis,Litt. Rev.,Mixotroph
+Biecheleria,DINOFLAGELLATES,Dinophyceae,Suessiales,Suessiaceae,Litt. Rev.,Mixotroph
+Apocalathium,DINOFLAGELLATES,Dinophyceae,Thoracosphaerales,Thoracosphaeraceae,Litt. Rev.,Mixotroph
+Fusiperidinium,DINOFLAGELLATES,Dinophyceae,Thoracosphaerales,Thoracosphaeraceae,Litt. Rev.,Mixotroph
+Chromulina,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Chromulinaceae,DB Scrap.,Mixotroph
+Ochromonas,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Chromulinaceae,DB Scrap.,Mixotroph
+Uroglena,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Chromulinaceae,Litt. Rev.,Mixotroph
+Chrysamoeba,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Chrysamoebaceae,Litt. Rev.,Mixotroph
+Chrysosphaera,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Chrysosphaeraceae,Litt. Rev.,Mixotroph
+Chrysococcus,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Dinobryaceae,Litt. Rev.,Mixotroph
+Chrysoikos,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Dinobryaceae,Litt. Rev.,Mixotroph
+Chrysolykos,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Dinobryaceae,DB Scrap.,Mixotroph
+Dinobryon,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Dinobryaceae,DB Scrap.,Mixotroph
+Epipyxis,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Dinobryaceae,DB Scrap.,Mixotroph
+Kephyrion,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Dinobryaceae,DB Scrap.,Mixotroph
+Pseudokephyrion,CHRYSOPHYTES,Chrysophyceae,Chromulinales,Dinobryaceae,Litt. Rev.,Mixotroph
+Bitrichia,CHRYSOPHYTES,Chrysophyceae,Hibberdiales,Stylococcaceae,Litt. Rev.,Autotroph
+Lagynion,CHRYSOPHYTES,Chrysophyceae,Hibberdiales,Stylococcaceae,Litt. Rev.,Autotroph
+Stephanoporos,CHRYSOPHYTES,Chrysophyceae,Hibberdiales,Stylococcaceae,Litt. Rev.,Autotroph
+Chrysosphaerella,CHRYSOPHYTES,Chrysophyceae,Paraphysomonadales,Chrysosphaerellaceae,Litt. Rev.,Mixotroph
+Pedinella,OTHER,Dictyochophyceae,Pedinellales,Pedinellaceae,Litt. Rev.,Mixotroph
+Pseudocharaciopsis,EUSTIGMATOPHYTES,Eustigmatophyceae,Eustigmatales,Pseudocharaciopsidaceae,Litt. Rev.,Autotroph
+Goniochloris,EUSTIGMATOPHYTES,Eustigmatophyceae,Goniochloridales,Goniochloridaceae,DB Scrap.,Autotroph
+Tetraedriella,EUSTIGMATOPHYTES,Eustigmatophyceae,Goniochloridales,Goniochloridaceae,Litt. Rev.,Autotroph
+Stichogloea,OTHER,Phaeothamniophyceae,Phaeothamniales,Phaeothamniaceae,Litt. Rev.,Autotroph
+Gonyostomum,OTHER,Raphidophyceae,Chattonellales,Vacuolariaceae,Litt. Rev.,Autotroph
+Mallomonas,CHRYSOPHYTES,Synurophyceae,Synurales,Mallomonadaceae,Litt. Rev.,Autotroph
+Spiniferomonas,CHRYSOPHYTES,Synurophyceae,Synurales,Synuraceae,DB Scrap.,Autotroph
+Synura,CHRYSOPHYTES,Synurophyceae,Synurales,Synuraceae,Litt. Rev.,Autotroph
+Centritractus,YELLOW-GREEN ALGAE,Xanthophyceae,Mischococcales,Centritractaceae,DB Scrap.,Autotroph
+Characiopsis,YELLOW-GREEN ALGAE,Xanthophyceae,Mischococcales,Characiopsidaceae,Litt. Rev.,Autotroph
+Peroniella,YELLOW-GREEN ALGAE,Xanthophyceae,Mischococcales,Characiopsidaceae,Litt. Rev.,Autotroph
+Ophiocytium,YELLOW-GREEN ALGAE,Xanthophyceae,Mischococcales,Ophiocytiaceae,DB Scrap.,Autotroph
